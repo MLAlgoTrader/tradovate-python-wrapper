@@ -1,9 +1,9 @@
 # tradovate-python-wrapper
 ### A slightly modified python swagger client for the Tradovate API
 <br>
-#### Open tradovate_broker.py, replace the parameters below with your credentials and run the file. It should get an access token and call Account_List 
+Open tradovate_broker.py, replace the parameters below with your credentials and run the file. It should get an access token and call Account_List 
 
-'
+`
 data = '''{
             "name": "<account_username>",
             "password": "<account_password>",
@@ -13,4 +13,4 @@ data = '''{
             "cid": "<API cid>",
             "sec": "<API secret key>"
             }'''
-'
+`

@@ -1,0 +1,1 @@
+[{"package": "certifi", "version": "2022.6.15", "deps": []}, {"package": "six", "version": "1.16.0", "deps": []}, {"package": "python-dateutil", "version": "2.8.1", "deps": [{"package": "six", "version": "1.16.0"}]}, {"package": "setuptools", "version": "63.2.0", "deps": []}, {"package": "urllib3", "version": "1.26.10", "deps": []}]
